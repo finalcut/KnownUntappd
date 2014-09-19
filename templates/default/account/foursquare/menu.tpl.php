@@ -1,0 +1,1 @@
+<li <?php if ($_SERVER['REQUEST_URI'] == '/account/Untappd/') echo 'class="active"'; ?>><a href="/account/Untappd/">Untappd</a></li>
