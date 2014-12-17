@@ -1,3 +1,6 @@
+# NOT READY TO BE USED; PLEASE DONT INSTALL YET
+
+
 Untappd for Known/Idno
 =================
 
